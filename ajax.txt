@@ -1,0 +1,5 @@
+1. Hello Everyone, <br>
+2. My Name is Jatin Sharma. <br>
+3. This is an example of a Responsive Website. <br>
+4. It also has Smooth Scrolling. <br>
+5. Made use of InnerHTML & TextContent. <br>
