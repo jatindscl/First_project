@@ -1,4 +1,4 @@
-
+alert("if the video in the background doesn't play, pls click this 'BIG CIRCLE'")
 function func() {
 	// body...
 	var x=document.getElementById("name").value;
